@@ -1,10 +1,9 @@
 import React from "react";
 
-class MovieList extends React.Component {
-  render() {
+const MovieList = (props) => {
     return (
       <div className="row">
-        {this.props.movies.map((movie) => (
+        {props.movies.map((movie) => (
           <div className="col-lg-4" key={movie.id}>
             <div className="card mb-4 shadow-sm">
               <img
@@ -32,7 +31,7 @@ class MovieList extends React.Component {
         ))}
       </div>
     );
-  }
+
 }
 
 export default MovieList;
