@@ -2,9 +2,7 @@ import React from "react";
 
 class SearchBar extends React.Component {
 
-    state = {
-        serachQuery: ""
-    }
+    
 
     handleFormSubmit = (event) => {
         event.preventDefault();
@@ -15,11 +13,10 @@ class SearchBar extends React.Component {
         <div className="form-row mb-5">
           <div className="col-12">
             <input
-            onChange={(event) => this.setState({serachQuery: event.target.value})}
+            onChange={this.props.searchMovieProp}
               type="text"
               className="form-control"
               placeholder="Search a movie"
-              value={this.state.serachQuery}
             />
           </div>
         </div>
