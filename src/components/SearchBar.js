@@ -3,7 +3,14 @@ import React from "react";
 class SearchBar extends React.Component {
     render(){
         return(
-            <h1>Search Bar</h1>
+            <form>
+                <div className="form-row mb-5">
+                    <div className="col-12">
+                        <input type="text" className="form-control" placeholder="Search a movie" />
+
+                    </div>
+                </div>
+            </form>
         )
     }
 }
