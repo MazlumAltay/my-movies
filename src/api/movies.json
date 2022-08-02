@@ -2,21 +2,21 @@
     "movies": [
         {
             "name": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
-            "rating": "8.1",
+            "rating": "8.0",
             "overview": "İyiyle kötü arasındaki mücadelenin epik bir anlatımı olan filmde, muazzam bir sorumluluğu üstlenmek zorunda kalan ve barışçı bir Hobbit olan Frodo Baggins'in destansı serüveni işleniyor. Frodo'nun yapması gereken, Kıyamet'in Çatlakları olarak anılan diyara dalarak epik bir mücadeleye girişmek ve bu yüzüğü ebediyen ortadan kaldırmaktır.",
             "imageURL": "https://www.themoviedb.org/t/p/original/e2QqbLA7BnuYKdYkmFeuVKZlurP.jpg",
             "id": 4
           },
         {
             "name": "Yüzüklerin Efendisi: İki Kule",
-            "rating": "8.1",
+            "rating": "8.3",
             "overview": "İyiyle kötü arasındaki mücadelenin epik bir anlatımı olan filmde, muazzam bir sorumluluğu üstlenmek zorunda kalan ve barışçı bir Hobbit olan Frodo Baggins'in destansı serüveni işleniyor. Frodo'nun yapması gereken, Kıyamet'in Çatlakları olarak anılan diyara dalarak epik bir mücadeleye girişmek ve bu yüzüğü ebediyen ortadan kaldırmaktır.",
             "imageURL": "https://www.themoviedb.org/t/p/original/e2QqbLA7BnuYKdYkmFeuVKZlurP.jpg",
             "id": 5
           },
         {
             "name": "Yüzüklerin Efendisi: Kralın Dönüşü",
-            "rating": "8.1",
+            "rating": "8.9",
             "overview": "Kıyamet günü ortamını yaşayan Orta Dünya'da, Yüzük Savaşı'nın son ve en büyük mücadelesine hoşgeldiniz. Bir yanda güvenilmez Gollum'un rehberlik ettiği yüzük taşıyıcısı Frodo ve yoldaşı Sam, Mordor'a ulaşıp Tek Yüzük'ü yokedebilecekleri tek yere götürmeye çalışıyorlar.",
             "imageURL": "https://www.themoviedb.org/t/p/original/5WOdbuci0Z2H40NGIUhhC2vc8hI.jpg",
             "id": 6
@@ -39,7 +39,7 @@
         "name": "Saw 3D",
         "rating": "7.5",
         "overview": "SAW legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
-        "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpgg",
+        "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpg",
         "id": 11
       },
       {
