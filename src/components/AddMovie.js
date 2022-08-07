@@ -6,7 +6,8 @@ class AddMovie extends React.Component {
     
     handleFormSubmit = (e) => {
         e.preventDefault();
-        var obj = serialize(e.target, {hash: true});
+        const newMovie = serialize(e.target, {hash: true});
+        this.propsonAddMovie(newMovie);
     }
   render() {
     return (
